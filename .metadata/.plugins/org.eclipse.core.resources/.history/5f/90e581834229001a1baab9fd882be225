@@ -1,0 +1,8 @@
+package com.home;
+
+public class HomePage {
+public static void HomePag()
+{
+	System.out.println("Home");
+}
+}

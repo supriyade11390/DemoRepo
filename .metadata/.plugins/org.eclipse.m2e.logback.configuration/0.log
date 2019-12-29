@@ -1,0 +1,35 @@
+2019-12-24 23:42:22,029 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\DemoGitRepository\DemoGITRepo\pom.xml
+2019-12-24 23:42:23,897 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGITRepo:DemoGITRepo:0.0.1-SNAPSHOT @ D:\DemoGitRepository\DemoGITRepo\pom.xml.
+2019-12-24 23:42:24,589 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoGITRepo/src/main/java
+2019-12-24 23:42:24,594 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoGITRepo/src/test/java
+2019-12-24 23:42:24,929 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGITRepo:DemoGITRepo:0.0.1-SNAPSHOT @ D:\DemoGitRepository\DemoGITRepo\pom.xml.
+2019-12-24 23:42:25,824 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-12-24 23:42:27,042 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGITRepo:DemoGITRepo:0.0.1-SNAPSHOT @ D:\DemoGitRepository\DemoGITRepo\pom.xml.
+2019-12-24 23:42:27,217 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:42:27,217 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:42:27,222 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:42:27,222 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
+2019-12-24 23:44:30,320 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:44:30,320 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:44:30,326 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:44:30,327 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
+2019-12-24 23:44:47,538 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:44:47,539 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:44:47,547 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:44:47,547 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
+2019-12-24 23:45:00,511 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:45:00,512 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:45:00,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:45:00,525 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
+2019-12-24 23:45:01,643 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:45:01,644 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:45:01,647 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:45:01,647 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
+2019-12-24 23:46:56,556 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:46:56,556 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:46:56,562 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:46:56,562 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
+2019-12-24 23:47:15,301 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:47:15,302 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\main\resources
+2019-12-24 23:47:15,308 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-24 23:47:15,308 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoGitRepository\DemoGITRepo\src\test\resources
